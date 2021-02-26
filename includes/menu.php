@@ -4,7 +4,7 @@
 
 <nav class="navbar navbar-expand-md  navbar-light">
     <div class="container-fluid">
-    <a class="navbar-brand " href="../index.php">
+    <a class="navbar-brand " href="index.php">
         <img src="images/dmilogo.png" width="80" height="80" alt="DMI">
     </a>
     <form class="d-flex">
@@ -17,13 +17,13 @@
     <div class="collapse navbar-collapse" id="collapse_target">
     <ul class="navbar-nav">
         <li class="nav-item">
-            <a class="nav-link" href="../nyheder.php">Nyheder</a>
+            <a class="nav-link" href="nyheder.php">Nyheder</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#">Vejrarkiv</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="../hav.php">Hav</a>
+            <a class="nav-link" href="hav.php">Hav</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#">Radar/Målinger</a>
@@ -31,7 +31,7 @@
         <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id=dropdownlink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Vejr</a>
             <ul class="dropdown-menu" aria-labelledby="dropdownlink">
-                <li><a class="dropdown-item" href="../vejr.php">Danmark</a></li>
+                <li><a class="dropdown-item" href="vejr.php">Danmark</a></li>
                 <li><a class="dropdown-item" href="#">Grønland</a></li>
                 <li><a class="dropdown-item" href="#">Færøerne</a></li>
             </ul>
