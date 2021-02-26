@@ -29,7 +29,5 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 <?php include "includes/menu.php"; ?>
-
-test
 </body>
 </html>
