@@ -30,22 +30,33 @@
 
 <?php include "includes/menu.php"; ?>
 
+<div class="link-danger">
+    <a href="nyheder.php" target="_blank">Forår 20</a>
+<a href="nyheder.php" target="_blank">Sommer 20</a>
+    <a href="nyheder.php" target="_blank">Efterår 20</a>
+    <a href="nyheder.php" target="_blank">Vinter 20/21</a>
+    <a href="nyheder.php" target="_blank">Arkiv</a>
+</div>
+
 <div class="container bg-baggrund">
-    <div class="row">
-        <div class="col bg-primary">
-            <img src="images/billede 1 nyheder.png">
-        </div>
+    <div class="row row-cols-3">
         <div class="col">
-            er det her en boks?
+            <img src="images/billede 1 nyheder.png">
         </div>
         <div class="col">
             <img src="images/Billede 2 nyheder.jpg">
         </div>
         <div class="col">
-            <img src="images/Billede 3 nyheder.jpg">
+            <img src="images/billede 3 nyheder.jpg">
         </div>
         <div class="col">
             <img src="images/Billede 4 nyheder.jpg">
+        </div>
+        <div class="col">
+            <img src="images/billede 5 nyheder.jpg">
+        </div>
+        <div class="col-xl">
+            <img src="images/billede 6 nyheder.jpg">
         </div>
     </div>
 </div>
