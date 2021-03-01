@@ -33,7 +33,7 @@
 
 <div class="link-danger">
     <a href="nyheder.php" target="_blank" class="mx-5 link-primary text text-decoration-none">Nyheder</a>
-    <a href="forår.php" target="_blank" class="mx-5 link-dark">Forår 21</a>
+    <a href="forår.php" target="_blank" class="mx-5 link-dark">Forår 20</a>
 <a href="nyheder.php" target="_blank" class="mx-5 link-dark">Sommer 20</a>
     <a href="nyheder.php" target="_blank" class="mx-5 link-dark">Efterår 20</a>
     <a href="nyheder.php" target="_blank" class="mx-5 link-dark">Vinter 20/21</a>

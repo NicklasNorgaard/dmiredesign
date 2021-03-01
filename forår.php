@@ -33,40 +33,40 @@
 
 <div class="link-danger">
     <a href="nyheder.php" target="_blank" class="mx-5 link-dark">Nyheder</a>
-    <a href="forår.php" target="_blank" class="mx-5 link-primary text-decoration-none">Forår 21</a>
+    <a href="forår.php" target="_blank" class="mx-5 link-primary text-decoration-none">Forår 20</a>
     <a href="forår.php" target="_blank" class="mx-5 link-dark">Sommer 20</a>
     <a href="forår.php" target="_blank" class="mx-5 link-dark">Efterår 20</a>
     <a href="forår.php" target="_blank" class="mx-5 link-dark">Vinter 20/21</a>
     <a href="forår.php" target="_blank" class="mx-5 link-dark">Arkiv</a>
 </div>
 
-<h1 class="mt-5 ms-5">Forår 21</h1><br>
-<strong class="ms-5">Her finder du de seneste nyheder omkring vejret i Danmark</strong>
+<h1 class="mt-5 ms-5">Forår 20</h1><br>
+<strong class="ms-5">Her finder du artikler omkring vejret i Danmark i foråret 2020</strong>
 <div class="container" id="forarcontainer">
     <div class="row row-cols-3">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 1 nyheder.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Tidligt 'forår' sender pollen på rekordkurs<br>26. Februar 2021</a>
+            <img src="images/billede 1 forar.png">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Dagbog fra MOSAiC-ekspeditionen: Minus 37 grader og introduktion til det nye hold<br>2. Marts 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/Billede 2 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Stærk profil bliver videnskabelig leder af Danmarks Nationale Center for Klimaforskning<br>26. Februar 2021</a>
+            <img src="images/billede 2 forar.png">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Er foråret på vej?<br>3. Marts 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 3 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Februar og vinteren 20/21 indtil nu<br>16. Februar 21</a>
+            <img src="images/billede 3 forar.jpg">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">DMI opruster på klimaforskning i 2020<br>4. Marts 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/Billede 4 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Hvorfor er det så koldt?<br>12. Februar 21</a>
+            <img src="images/billede 4 forar.jpg">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Fygning af varsler, men ingen storme i februar<br>4. Marts 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 5 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Vi har haft den koldeste nat i 9 år<br>12. Februar 21</a>
+            <img src="images/billede 5 forar.png">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Fredag og frem - mere regn på vej<br>5. Marts 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 6 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Sådan påvirker vind, vand og vejr isens bæreevne<br>8. Februar 21</a>
+            <img src="images/billede 6 forar.png">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Blæsende torsdag<br>11. Marts 2020</a>
         </div>
     </div>
     </div>
