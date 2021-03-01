@@ -2,7 +2,7 @@
 <link href="../css/bootstrap.css" rel="stylesheet" type="text/css">
 <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
-<nav class="navbar navbar-expand-md navbar-light">
+<nav class="navbar navbar-expand-md navbar-light" style="font-family: roboto">
     <div class="container-fluid">
     <a class="navbar-brand " href="index.php">
         <img src="images/dmilogo.png" width="80" height="80" alt="DMI">
@@ -41,10 +41,10 @@
     </div>
 </nav>
 <div class="d-flex m-4">
-    <div class="rounded bg-pastelyellow m-2" style="width: auto; height:auto; font-size: 20px">
+    <div class="rounded bg-pastelyellow m-2" style="width: auto; height:auto; font-size: 20px; font-family: roboto">
         <a href="varsler.php" class="m-2 text-decoration-none text-dark">Varsler: Stærk storm på vej</a>
     </div>
-    <div class="rounded bg-pastelgreen m-2" style="width: auto; height:auto; font-size: 20px">
+    <div class="rounded bg-pastelgreen m-2" style="width: auto; height:auto; font-size: 20px; font-family: roboto">
         <a href="#" class="m-2 text-decoration-none text-dark">Pollental: Høje pollental</a>
     </div>
 </div>
