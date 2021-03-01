@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Nyheder</title>
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -26,37 +26,46 @@
 </head>
 
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
-<body>
+<body class="bg-baggrund">
+
 
 <?php include "includes/menu.php"; ?>
 
 <div class="link-danger">
-    <a href="nyheder.php" target="_blank">Forår 20</a>
-<a href="nyheder.php" target="_blank">Sommer 20</a>
-    <a href="nyheder.php" target="_blank">Efterår 20</a>
-    <a href="nyheder.php" target="_blank">Vinter 20/21</a>
-    <a href="nyheder.php" target="_blank">Arkiv</a>
+    <a href="nyheder.php" target="_blank" class="mx-5 link-dark">Forår 21</a>
+<a href="nyheder.php" target="_blank" class="mx-5 link-dark">Sommer 20</a>
+    <a href="nyheder.php" target="_blank" class="mx-5 link-dark">Efterår 20</a>
+    <a href="nyheder.php" target="_blank" class="mx-5 link-dark">Vinter 20/21</a>
+    <a href="nyheder.php" target="_blank" class="mx-5 link-dark">Arkiv</a>
 </div>
 
-<div class="container bg-baggrund">
+<h1 class="mt-5 ms-5">Nyheder</h1><br>
+<strong class="ms-5">Her finder du de seneste nyheder omkring vejret i Danmark</strong>
+<div class="container">
     <div class="row row-cols-3">
-        <div class="col">
+        <div class="col mt-5">
             <img src="images/billede 1 nyheder.png">
+            <a href="nyheder.php" target="_blank" class="link-dark">Tidligt 'forår' sender pollen på rekordkurs<br>26. Februar 2021</a>
         </div>
-        <div class="col">
+        <div class="col mt-5">
             <img src="images/Billede 2 nyheder.jpg">
+            <a href="nyheder.php" target="_blank" class="link-dark">Stærk profil bliver videnskabelig leder af Danmarks Nationale Center for Klimaforskning<br>26. Februar 2021</a>
         </div>
-        <div class="col">
+        <div class="col mt-5">
             <img src="images/billede 3 nyheder.jpg">
+            <a href="nyheder.php" target="_blank" class="link-dark">Februar og vinteren 20/21 indtil nu<br>16. Februar 21</a>
         </div>
-        <div class="col">
+        <div class="col mt-5 mb-5">
             <img src="images/Billede 4 nyheder.jpg">
+            <a href="nyheder.php" target="_blank" class="link-dark">Hvorfor er det så koldt?<br>12. Februar 21</a>
         </div>
-        <div class="col">
+        <div class="col mt-5 mb-5">
             <img src="images/billede 5 nyheder.jpg">
+            <a href="nyheder.php" target="_blank" class="link-dark">Vi har haft den koldeste nat i 9 år<br>12. Februar 21</a>
         </div>
-        <div class="col-xl">
+        <div class="col mt-5 mb-5">
             <img src="images/billede 6 nyheder.jpg">
+            <a href="nyheder.php" target="_blank" class="link-dark">Sådan påvirker vind, vand og vejr isens bæreevne<br>8. Februar 21</a>
         </div>
     </div>
 </div>
