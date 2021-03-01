@@ -18,8 +18,9 @@ $custom-colors: (
         "pastelgreen": #A0FFA1,
         "pastelyellow": #FFE193,
         "pastelred": #FF8996,
-        "pastelpeach": #FFB899
-        "baggrundsfarve": #F5F2F2
+        "pastelpeach": #FFB899,
+        "baggrund": #F5F2F2,
+
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
 
