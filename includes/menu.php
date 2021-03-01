@@ -2,14 +2,14 @@
 <link href="../css/bootstrap.css" rel="stylesheet" type="text/css">
 <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
-<nav class="navbar navbar-expand-md  navbar-light">
+<nav class="navbar navbar-expand-md navbar-light">
     <div class="container-fluid">
     <a class="navbar-brand " href="index.php">
         <img src="images/dmilogo.png" width="80" height="80" alt="DMI">
     </a>
     <form class="d-flex">
-          <input class="form-control me-2" type="search" placeholder="Søgefelt" aria-label="Søg">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Søg</button>
+          <input class="form-control" type="search" placeholder="Søgefelt" aria-label="Søg">
+        <button class="btn btn-outline-success" type="submit">Søg</button>
     </form>
     <button class="navbar-toggler" data-bs-toggle="collapse" href="#collapse_target">
         <span class="navbar-toggler-icon"></span>

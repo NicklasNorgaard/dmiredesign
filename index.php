@@ -21,6 +21,7 @@
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://kit.fontawesome.com/9a05522b76.js" crossorigin="anonymous"></script>
 
     <!-- Sikrer den vises korrekt på mobil, tablet mv. ved at tage ift. skærmstørrelse - bliver brugt til responsive websider -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,5 +30,8 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 <?php include "includes/menu.php"; ?>
+
+
+<?php include "includes/footer.php"; ?>
 </body>
 </html>
