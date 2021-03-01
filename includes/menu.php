@@ -40,12 +40,11 @@
     </div>
     </div>
 </nav>
-<br>
 <div class="d-flex m-4">
-    <div class="rounded bg-pastelyellow m-2" style="width: 250px; height:35px; font-size: 20px">
-        <p class="ms-2">Varsler: Stærk storm på vej</p>
+    <div class="rounded bg-pastelyellow m-2" style="width: auto; height:auto; font-size: 20px">
+        <a href="varsler.php" class="m-2 text-decoration-none text-dark">Varsler: Stærk storm på vej</a>
     </div>
-    <div class="rounded bg-pastelgreen m-2" style="width: 250px; height:35px; font-size: 20px">
-        <p class="ms-2">Pollental: Høje pollental</p>
+    <div class="rounded bg-pastelgreen m-2" style="width: auto; height:auto; font-size: 20px">
+        <a href="#" class="m-2 text-decoration-none text-dark">Pollental: Høje pollental</a>
     </div>
 </div>
