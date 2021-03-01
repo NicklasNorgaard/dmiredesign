@@ -92,7 +92,7 @@
     </div>
 </div>
 <br>
-<h2>Radar</h2>
+<h1>Radar</h1>
 <img src="images/radarplaceholder.JPG" class="img-fluid">
 <br>
 <?php include "includes/footer.php"; ?>
