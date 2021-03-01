@@ -40,3 +40,12 @@
     </div>
     </div>
 </nav>
+<br>
+<div class="d-flex m-4">
+    <div class="rounded bg-pastelyellow m-2" style="width: 250px; height:35px; font-size: 20px">
+        <p class="ms-2">Varsler: Stærk storm på vej</p>
+    </div>
+    <div class="rounded bg-pastelgreen m-2" style="width: 250px; height:35px; font-size: 20px">
+        <p class="ms-2">Pollental: Høje pollental</p>
+    </div>
+</div>
