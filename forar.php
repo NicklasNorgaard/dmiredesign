@@ -33,11 +33,11 @@
 
 <div class="link-danger">
     <a href="nyheder.php" target="_blank" class="mx-5 link-dark">Nyheder</a>
-    <a href="forår.php" target="_blank" class="mx-5 link-primary text-decoration-none">Forår 20</a>
-    <a href="forår.php" target="_blank" class="mx-5 link-dark">Sommer 20</a>
-    <a href="forår.php" target="_blank" class="mx-5 link-dark">Efterår 20</a>
-    <a href="forår.php" target="_blank" class="mx-5 link-dark">Vinter 20/21</a>
-    <a href="forår.php" target="_blank" class="mx-5 link-dark">Arkiv</a>
+    <a href="forar.php" target="_blank" class="mx-5 link-primary text-decoration-none">Forår 20</a>
+    <a href="forar.php" target="_blank" class="mx-5 link-dark">Sommer 20</a>
+    <a href="forar.php" target="_blank" class="mx-5 link-dark">Efterår 20</a>
+    <a href="forar.php" target="_blank" class="mx-5 link-dark">Vinter 20/21</a>
+    <a href="forar.php" target="_blank" class="mx-5 link-dark">Arkiv</a>
 </div>
 
 <h1 class="mt-5 ms-5">Forår 20</h1><br>
