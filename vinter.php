@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sommer</title>
+    <title>Vinter</title>
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -28,47 +28,47 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body class="bg-baggrund">
 
+
 <?php include "includes/menu.php"; ?>
 
 <div class="link-danger">
     <a href="nyheder.php" class="mx-5 link-dark">Nyheder</a>
     <a href="forar.php" class="mx-5 link-dark">Forår 20</a>
-    <a href="sommer.php.php" class="mx-5 link-primary text-decoration-none">Sommer 20</a>
+    <a href="sommer.php" class="mx-5 link-dark">Sommer 20</a>
     <a href="efterar.php" class="mx-5 link-dark">Efterår 20</a>
-    <a href="vinter.php" class="mx-5 link-dark">Vinter 20/21</a>
+    <a href="vinter.php" class="mx-5 link-primary text text-decoration-none">Vinter 20/21</a>
     <a href="arkiv.php" class="mx-5 link-dark">Arkiv</a>
 </div>
 
-<h1 class="mt-5 ms-5">Sommer 20</h1><br>
-<strong class="ms-5">Her finder du artikler omkring vejret i Danmark i sommeren 2020</strong>
-<div class="container" id="forarcontainer">
+<h1 class="mt-5 ms-5">Vinter</h1><br>
+<strong class="ms-5">Her finder du artikler omkring vejret i Danmark i vinteren 2020</strong>
+<div class="container">
     <div class="row row-cols-3">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 1 sommer.png">
-            <strong>Danmark ramt af landsdækkende varmebølge<br>26. Juni 2020</strong>
+            <img src="images/billede 1 vinter.png">
+            <strong>Den varmeste novemberdag i 52 år</br>sommer<br>2. November 2020</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 2 sommer.jpg">
-            <strong>Er du varm på vind, vand og vejr?<br>1. Juli 2020</strong>
+            <img src="images/billede 2 vinter.png">
+            <strong>DMI’s grønlandske kontor flytter til Arktisk Kommandos lokaler i Nuuk<br>3. November 2020</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 3 sommer.jpg">
-            <strong>Hvor stor kan en stormflod egentlig blive i Danmark?<br>10. Juli 2020</strong>
+            <img src="images/billede 3 vinter.jpg">
+            <strong>Hvad er den lyscirkel med en lille rund regnbue i midten?<br>12. November 20</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 4 sommer.png">
-            <strong>Halv opgørelse af sommeren: Modsatrettede yderligheder giver normalt gennemsnit<br>10. Juli 2020</strong>
+            <img src="images/billede 4 vinter.jpg">
+            <strong>Nu bliver data om lyn og hav gratis<br><br>17. November 20</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 5 sommer.png">
-            <strong>Den koldeste juli i 41 år – i hvert fald indtil videre<br><br>17. Juli 2020</strong>
+            <img src="images/billede 5 vinter.jpg">
+            <strong>2020 står til at blive det næstvarmeste år i dansk vejrhistorie<br>18. November 20</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 6 sommer.png">
-            <strong>Langtidsmeteorolog: Det ustadige sommervejr ser ud til at fortsætte<br>21. Juli 2020</strong>
+            <img src="images/billede 6 vinter.jpg">
+            <strong>DMI flytter op i højden<br><br>30. November 20</strong>
         </div>
     </div>
-</div>
 </div>
 
 

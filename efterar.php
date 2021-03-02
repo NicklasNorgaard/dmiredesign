@@ -35,38 +35,38 @@
     <a href="nyheder.php" class="mx-5 link-dark">Nyheder</a>
     <a href="forar.php" class="mx-5 link-dark">Forår 20</a>
     <a href="sommer.php" class="mx-5 link-dark">Sommer 20</a>
-    <a href="nyheder.php" class="mx-5 link-primary text text-decoration-none">Efterår 20</a>
-    <a href="nyheder.php" class="mx-5 link-dark">Vinter 20/21</a>
-    <a href="nyheder.php" class="mx-5 link-dark">Arkiv</a>
+    <a href="efterar.php" class="mx-5 link-primary text text-decoration-none">Efterår 20</a>
+    <a href="vinter.php" class="mx-5 link-dark">Vinter 20/21</a>
+    <a href="arkiv.php" class="mx-5 link-dark">Arkiv</a>
 </div>
 
-<h1 class="mt-5 ms-5">Nyheder</h1><br>
-<strong class="ms-5">Her finder du de seneste nyheder omkring vejret i Danmark</strong>
+<h1 class="mt-5 ms-5">Efterår</h1><br>
+<strong class="ms-5">Her finder du artikler omkring vejret i Danmark i efteråret 2020</strong>
 <div class="container">
     <div class="row row-cols-3">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 1 efterar.jpg">
-            <strong>Sommeropgørelse 2020: Helt normal unormal</br>sommer<br>1. September 2021</strong>
+            <strong>Sommeropgørelse 2020: Helt normal unormal</br>sommer<br>1. September 2020</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 2 efterar.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Bliv klog på usikkerheden i vejrudsigten<br>4. September 2021</strong></a>
+            <strong>Bliv klog på usikkerheden i vejrudsigten<br><br>4. September 2020</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 3 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Februar og vinteren 20/21 indtil nu<br>16. Februar 21</strong></a>
+            <img src="images/billede 3 efterar.png">
+            <strong>Tidligste nattefrost i 15 år<br><br>18. September 20</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/Billede 4 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Hvorfor er det så koldt?<br>12. Februar 21</strong></a>
+            <img src="images/billede 4 efterar.jpg">
+            <strong>Tirsdag er det jævndøgn – fra i morgen bliver <br>natten længere end dagen<br>21. September 20</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 5 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Vi har haft den koldeste nat i 9 år<br>12. Februar 21</strong></a>
+            <img src="images/billede 5 efterar.jpg">
+            <strong>Kulderekord på Grønland bekræftet<br><br>23. September 20</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 6 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Sådan påvirker vind, vand og vejr isens bæreevne<br>8. Februar 21</strong></a>
+            <img src="images/billede 6 efterar.png">
+            <strong>Nye klimatal for september i perioden 1991-2020: Knap én grad varmere end ’normalt'<br>30. September 20</strong>
         </div>
     </div>
 </div>

@@ -36,8 +36,8 @@
     <a href="forar.php" class="mx-5 link-primary text-decoration-none">Forår 20</a>
     <a href="sommer.php" class="mx-5 link-dark">Sommer 20</a>
     <a href="efterar.php" class="mx-5 link-dark">Efterår 20</a>
-    <a href="forar.php" class="mx-5 link-dark">Vinter 20/21</a>
-    <a href="forar.php" class="mx-5 link-dark">Arkiv</a>
+    <a href="vinter.php" class="mx-5 link-dark">Vinter 20/21</a>
+    <a href="arkiv.php" class="mx-5 link-dark">Arkiv</a>
 </div>
 
 <h1 class="mt-5 ms-5">Forår 20</h1><br>
@@ -46,27 +46,27 @@
     <div class="row row-cols-3">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 1 forar.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Dagbog fra MOSAiC-ekspeditionen: Minus 37 grader og introduktion til det nye hold<br>2. Marts 2020</strong></a>
+            <strong>Dagbog fra MOSAiC-ekspeditionen: Minus 37 grader og introduktion til det nye hold<br>2. Marts 2020</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 2 forar.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Er foråret på vej?<br>3. Marts 2020</strong></a>
+            <strong>Er foråret på vej?<br>3. Marts 2020</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 3 forar.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>DMI opruster på klimaforskning i 2020<br>4. Marts 2020</strong></a>
+            <strong>DMI opruster på klimaforskning i 2020<br>4. Marts 2020</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 4 forar.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Fygning af varsler, men ingen storme i februar<br>4. Marts 2020</strong></a>
+            <strong>Fygning af varsler, men ingen storme i februar<br>4. Marts 2020</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 5 forar.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Fredag og frem - mere regn på vej<br>5. Marts 2020</strong></a>
+            <strong>Fredag og frem - mere regn på vej<br>5. Marts 2020</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 6 forar.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Blæsende torsdag<br>11. Marts 2020</strong></a>
+            <strong>Blæsende torsdag<br>11. Marts 2020</strong>
         </div>
     </div>
     </div>
