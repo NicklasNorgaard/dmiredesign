@@ -33,17 +33,17 @@
 
 <div class="container-md list-group shadow">
     <div class="row">
-    <div class="list-group-item col-md-3" style="background: linear-gradient(#FF8996, #FFB899);">
-    <span><i class="fas fa-map-marker-alt"></i><h3>Slagelse</h3></span>
-    <span><h3>Mandag</h3><i class="fas fa-sun"></i><h3>25°</h3></span>
-    <ul>
-        <li>Føles som 20°</li>
-        <li>Nedbør 0mm</li>
-        <li>Vind 2 m/s</li>
-        <li>UV Max 4,0</li>
-        <li>Sol op/ned 04:52/21:52</li>
-    </ul>
-    </div>
+        <div class="list-group-item col-md-3" style="background: linear-gradient(#FF8996, #FFB899);">
+            <span><i class="fas fa-map-marker-alt"></i><h3>Slagelse</h3></span>
+            <span><h3>Mandag</h3><i class="fas fa-sun"></i><h3>25°</h3></span>
+            <ul>
+                <li>Føles som 20°</li>
+                <li>Nedbør 0mm</li>
+                <li>Vind 2 m/s</li>
+                <li>UV Max 4,0</li>
+                <li>Sol op/ned 04:52/21:52</li>
+            </ul>
+        </div>
 
     <div class="list-group-item col-md bg-pastelyellow">
     <span><h3>Tirsdag</h3><i class="fas fa-cloud-rain"></i><h3>20°</h3></span>
