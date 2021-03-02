@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Nyheder</title>
+    <title>Sommer</title>
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -28,54 +28,51 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body class="bg-baggrund">
 
-
 <?php include "includes/menu.php"; ?>
 
 <div class="link-danger">
-    <a href="nyheder.php" class="mx-5 link-primary text text-decoration-none">Nyheder</a>
+    <a href="nyheder.php" class="mx-5 link-dark">Nyheder</a>
     <a href="forar.php" class="mx-5 link-dark">Forår 20</a>
-    <a href="sommer.php" class="mx-5 link-dark">Sommer 20</a>
-    <a href="nyheder.php" class="mx-5 link-dark">Efterår 20</a>
-    <a href="nyheder.php" class="mx-5 link-dark">Vinter 20/21</a>
-    <a href="nyheder.php" class="mx-5 link-dark">Arkiv</a>
+    <a href="forar.php" class="mx-5 link-primary text-decoration-none">Sommer 20</a>
+    <a href="forar.php" class="mx-5 link-dark">Efterår 20</a>
+    <a href="forar.php" class="mx-5 link-dark">Vinter 20/21</a>
+    <a href="forar.php" class="mx-5 link-dark">Arkiv</a>
 </div>
 
-<h1 class="mt-5 ms-5">Nyheder</h1><br>
-<strong class="ms-5">Her finder du de seneste nyheder omkring vejret i Danmark</strong>
-<div class="container">
+<h1 class="mt-5 ms-5">Forår 20</h1><br>
+<strong class="ms-5">Her finder du artikler omkring vejret i Danmark i sommeren 2020</strong>
+<div class="container" id="forarcontainer">
     <div class="row row-cols-3">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 1 nyheder.png">
-            <a href="artikel1.php" target="_blank" class="link-dark text-decoration-none">Tidligt 'forår' sender pollen på rekordkurs<br>26. Februar 2021</a>
+            <img src="images/billede 1 sommer.png">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Danmark ramt af landsdækkende varmebølge<br>26. Juni 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/Billede 2 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Stærk profil bliver videnskabelig leder af Danmarks Nationale Center for Klimaforskning<br>26. Februar 2021</a>
+            <img src="images/billede 2 sommer.jpg">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Er du varm på vind, vand og vejr?<br>1. Juli 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 3 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Februar og vinteren 20/21 indtil nu<br>16. Februar 21</a>
+            <img src="images/billede 3 sommer.jpg">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Hvor stor kan en stormflod egentlig blive i Danmark?<br>10. Juli 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/Billede 4 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Hvorfor er det så koldt?<br>12. Februar 21</a>
+            <img src="images/billede 4 sommer.png">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Halv opgørelse af sommeren: Modsatrettede yderligheder giver normalt gennemsnit<br>10. Juli 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 5 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Vi har haft den koldeste nat i 9 år<br>12. Februar 21</a>
+            <img src="images/billede 5 sommer.png">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Den koldeste juli i 41 år – i hvert fald indtil videre<br><br>17. Juli 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 6 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Sådan påvirker vind, vand og vejr isens bæreevne<br>8. Februar 21</a>
+            <img src="images/billede 6 sommer.png">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Langtidsmeteorolog: Det ustadige sommervejr ser ud til at fortsætte<br>21. Juli 2020</a>
         </div>
     </div>
+</div>
 </div>
 
 
 <?php include "includes/footer.php"; ?>
-
-
-
 
 </body>
 </html>
