@@ -91,11 +91,11 @@
     »Det vil ikke være overraskende, hvis der kommer mere knald på pollensæsonen i år, fordi sæsonen sidste år generelt var mild,« fortæller Mathilde Kloster.</p>
 </p>
 <br>
-<p class="ms-5">Du kan følge dagens pollental <a href="vejr.php">her</a></p>
+<p class="ms-5">Du kan følge dagens pollental <a href="vejr.php" target="_blank">her</a></p>
 
-<p class="ms-5"><a href="https://hoefeber.astma-allergi.dk/saadanmaalervipollen">Læs om </a>hvordan Astma-Allergi Danmark tæller pollen</p>
+<p class="ms-5"><a href="https://hoefeber.astma-allergi.dk/saadanmaalervipollen" target="_blank">Læs om </a>hvordan Astma-Allergi Danmark tæller pollen</p>
 
-<p class="ms-5">Og du kan finde flere <a href="https://www.astma-allergi.dk/">informationer</a> om pollen og allergi</p>
+<p class="ms-5">Og du kan finde flere <a href="https://www.astma-allergi.dk/" target="_blank">informationer</a> om pollen og allergi</p>
 
 <p class="ms-5 text-decoration-underline">26. februar 2021<br>
     Af Herdis Preil Damberg</p>
