@@ -46,7 +46,7 @@
     <div class="row row-cols-3">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 1 nyheder.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Tidligt 'forår' sender pollen på rekordkurs<br>26. Februar 2021</a>
+            <a href="artikel1.php" target="_blank" class="link-dark text-decoration-none">Tidligt 'forår' sender pollen på rekordkurs<br>26. Februar 2021</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/Billede 2 nyheder.jpg">
