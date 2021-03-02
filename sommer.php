@@ -44,28 +44,28 @@
 <div class="container" id="forarcontainer">
     <div class="row row-cols-3">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 1 forar.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Dagbog fra MOSAiC-ekspeditionen: Minus 37 grader og introduktion til det nye hold<br>2. Marts 2020</a>
+            <img src="images/billede 1 sommer.png">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Danmark ramt af landsdækkende varmebølge<br>26. Juni 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 2 forar.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Er foråret på vej?<br>3. Marts 2020</a>
+            <img src="images/billede 2 sommer.jpg">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Er du varm på vind, vand og vejr?<br>1. Juli 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 3 forar.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">DMI opruster på klimaforskning i 2020<br>4. Marts 2020</a>
+            <img src="images/billede 3 sommer.jpg">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Hvor stor kan en stormflod egentlig blive i Danmark?<br>10. Juli 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 4 forar.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Fygning af varsler, men ingen storme i februar<br>4. Marts 2020</a>
+            <img src="images/billede 4 sommer.png">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Halv opgørelse af sommeren: Modsatrettede yderligheder giver normalt gennemsnit<br>10. Juli 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 5 forar.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Fredag og frem - mere regn på vej<br>5. Marts 2020</a>
+            <img src="images/billede 5 sommer.png">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Den koldeste juli i 41 år – i hvert fald indtil videre<br><br>17. Juli 2020</a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 6 forar.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Blæsende torsdag<br>11. Marts 2020</a>
+            <img src="images/billede 6 sommer.png">
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Langtidsmeteorolog: Det ustadige sommervejr ser ud til at fortsætte<br>21. Juli 2020</a>
         </div>
     </div>
 </div>
