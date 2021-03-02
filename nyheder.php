@@ -46,27 +46,27 @@
     <div class="row row-cols-3">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <a href="artikel1.php" target="_blank"><img src="images/billede 1 nyheder.png"></a>
-            <a href="artikel1.php" target="_blank" class="link-dark text-decoration-none">Tidligt 'forår' sender pollen på rekordkurs<br>26. Februar 2021</a>
+            <a href="artikel1.php" target="_blank" class="link-dark text-decoration-none"><strong>Tidligt 'forår' sender pollen på rekordkurs<br>26. Februar 2021</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/Billede 2 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Stærk profil bliver videnskabelig leder af Danmarks Nationale Center for Klimaforskning<br>26. Februar 2021</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Stærk profil bliver videnskabelig leder af Danmarks Nationale Center for Klimaforskning<br>26. Februar 2021</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 3 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Februar og vinteren 20/21 indtil nu<br>16. Februar 21</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Februar og vinteren 20/21 indtil nu<br>16. Februar 21</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/Billede 4 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Hvorfor er det så koldt?<br>12. Februar 21</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Hvorfor er det så koldt?<br>12. Februar 21</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 5 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Vi har haft den koldeste nat i 9 år<br>12. Februar 21</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Vi har haft den koldeste nat i 9 år<br>12. Februar 21</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 6 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Sådan påvirker vind, vand og vejr isens bæreevne<br>8. Februar 21</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Sådan påvirker vind, vand og vejr isens bæreevne<br>8. Februar 21</strong></a>
         </div>
     </div>
 </div>

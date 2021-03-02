@@ -46,27 +46,27 @@
     <div class="row row-cols-3">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 1 forar.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Dagbog fra MOSAiC-ekspeditionen: Minus 37 grader og introduktion til det nye hold<br>2. Marts 2020</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Dagbog fra MOSAiC-ekspeditionen: Minus 37 grader og introduktion til det nye hold<br>2. Marts 2020</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 2 forar.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Er foråret på vej?<br>3. Marts 2020</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Er foråret på vej?<br>3. Marts 2020</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 3 forar.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">DMI opruster på klimaforskning i 2020<br>4. Marts 2020</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>DMI opruster på klimaforskning i 2020<br>4. Marts 2020</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 4 forar.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Fygning af varsler, men ingen storme i februar<br>4. Marts 2020</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Fygning af varsler, men ingen storme i februar<br>4. Marts 2020</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 5 forar.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Fredag og frem - mere regn på vej<br>5. Marts 2020</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Fredag og frem - mere regn på vej<br>5. Marts 2020</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 6 forar.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Blæsende torsdag<br>11. Marts 2020</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Blæsende torsdag<br>11. Marts 2020</strong></a>
         </div>
     </div>
     </div>

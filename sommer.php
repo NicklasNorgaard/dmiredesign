@@ -45,27 +45,27 @@
     <div class="row row-cols-3">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 1 sommer.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Danmark ramt af landsdækkende varmebølge<br>26. Juni 2020</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Danmark ramt af landsdækkende varmebølge<br>26. Juni 2020</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 2 sommer.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Er du varm på vind, vand og vejr?<br>1. Juli 2020</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Er du varm på vind, vand og vejr?<br>1. Juli 2020</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 3 sommer.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Hvor stor kan en stormflod egentlig blive i Danmark?<br>10. Juli 2020</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Hvor stor kan en stormflod egentlig blive i Danmark?<br>10. Juli 2020</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 4 sommer.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Halv opgørelse af sommeren: Modsatrettede yderligheder giver normalt gennemsnit<br>10. Juli 2020</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Halv opgørelse af sommeren: Modsatrettede yderligheder giver normalt gennemsnit<br>10. Juli 2020</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 5 sommer.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Den koldeste juli i 41 år – i hvert fald indtil videre<br><br>17. Juli 2020</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Den koldeste juli i 41 år – i hvert fald indtil videre<br><br>17. Juli 2020</strong></a>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 6 sommer.png">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none">Langtidsmeteorolog: Det ustadige sommervejr ser ud til at fortsætte<br>21. Juli 2020</a>
+            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Langtidsmeteorolog: Det ustadige sommervejr ser ud til at fortsætte<br>21. Juli 2020</strong></a>
         </div>
     </div>
 </div>
