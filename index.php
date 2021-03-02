@@ -30,8 +30,10 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body class="bg-baggrund">
 <?php include "includes/menu.php"; ?>
-<div class="list-group list-group-horizontal-md">
-    <div class="list-group-item d-flex">
+
+<div class="container-md list-group shadow">
+    <div class="row">
+    <div class="list-group-item col-md-3" style="background: linear-gradient(#FF8996, #FFB899);">
     <span><i class="fas fa-map-marker-alt"></i><h3>Slagelse</h3></span>
     <span><h3>Mandag</h3><i class="fas fa-sun"></i><h3>25°</h3></span>
     <ul>
@@ -43,7 +45,7 @@
     </ul>
     </div>
 
-    <div class="list-group-item d-flex">
+    <div class="list-group-item col-md bg-pastelyellow">
     <span><h3>Tirsdag</h3><i class="fas fa-cloud-rain"></i><h3>20°</h3></span>
     <ul>
         <li>Nedbør 5mm</li>
@@ -51,7 +53,7 @@
     </ul>
     </div>
 
-    <div class="list-group-item d-flex">
+    <div class="list-group-item col-md bg-pastelyellow">
     <span><h3>Onsdag</h3><i class="fas fa-cloud-sun-rain"></i><h3>22°</h3></span>
     <ul>
         <li>Nedbør 2mm</li>
@@ -59,7 +61,7 @@
     </ul>
     </div>
 
-    <div class="list-group-item d-flex">
+    <div class="list-group-item col-md bg-pastelyellow">
     <span><h3>Torsdag</h3><i class="fas fa-sun"></i><h3>18°</h3></span>
     <ul>
         <li>Nedbør 0mm</li>
@@ -67,7 +69,7 @@
     </ul>
     </div>
 
-    <div class="list-group-item d-flex">
+    <div class="list-group-item col-md bg-pastelyellow">
     <span><h3>Fredag</h3><i class="fas fa-cloud-rain"></i><h3>26°</h3></span>
     <ul>
         <li>Nedbør 5mm</li>
@@ -75,7 +77,7 @@
     </ul>
     </div>
 
-    <div class="list-group-item d-flex">
+    <div class="list-group-item col-md bg-pastelyellow">
     <span><h3>Lørdag</h3><i class="fas fa-cloud-rain"></i><h3>21°</h3></span>
     <ul>
         <li>Nedbør 5mm</li>
@@ -83,13 +85,14 @@
     </ul>
     </div>
 
-    <div class="list-group-item d-flex">
+    <div class="list-group-item col-md bg-pastelyellow">
     <span><h3>Søndag</h3><i class="fas fa-cloud-rain"></i><h3>23°</h3></span>
     <ul>
         <li>Nedbør 5mm</li>
         <li>Vind 2 m/s</li>
     </ul>
     </div>
+</div>
 </div>
 <br>
 <h1>Radar</h1>
