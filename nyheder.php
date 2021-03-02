@@ -35,7 +35,7 @@
     <a href="nyheder.php" class="mx-5 link-primary text text-decoration-none">Nyheder</a>
     <a href="forar.php" class="mx-5 link-dark">Forår 20</a>
     <a href="sommer.php" class="mx-5 link-dark">Sommer 20</a>
-    <a href="nyheder.php" class="mx-5 link-dark">Efterår 20</a>
+    <a href="efterar.php" class="mx-5 link-dark">Efterår 20</a>
     <a href="nyheder.php" class="mx-5 link-dark">Vinter 20/21</a>
     <a href="nyheder.php" class="mx-5 link-dark">Arkiv</a>
 </div>
@@ -50,23 +50,23 @@
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/Billede 2 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Stærk profil bliver videnskabelig leder af Danmarks Nationale Center for Klimaforskning<br>26. Februar 2021</strong></a>
+            <strong>Stærk profil bliver videnskabelig leder af Danmarks Nationale Center for Klimaforskning<br>26. Februar 2021</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 3 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Februar og vinteren 20/21 indtil nu<br>16. Februar 21</strong></a>
+            <strong>Februar og vinteren 20/21 indtil nu<br>16. Februar 21</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/Billede 4 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Hvorfor er det så koldt?<br>12. Februar 21</strong></a>
+            <strong>Hvorfor er det så koldt?<br>12. Februar 21</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 5 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Vi har haft den koldeste nat i 9 år<br>12. Februar 21</strong></a>
+            <strong>Vi har haft den koldeste nat i 9 år<br>12. Februar 21</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 6 nyheder.jpg">
-            <a href="nyheder.php" target="_blank" class="link-dark text-decoration-none"><strong>Sådan påvirker vind, vand og vejr isens bæreevne<br>8. Februar 21</strong></a>
+            <strong>Sådan påvirker vind, vand og vejr isens bæreevne<br>8. Februar 21</strong>
         </div>
     </div>
 </div>
