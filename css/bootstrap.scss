@@ -21,8 +21,7 @@ $custom-colors: (
         "pastelpeach": #FFB899,
         "baggrund": #F5F2F2,
 );
+
 $theme-colors: map-merge($theme-colors, $custom-colors);
-
-
 
 @import "../node_modules/bootstrap/scss/bootstrap";
