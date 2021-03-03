@@ -31,7 +31,7 @@
 
 <?php include "includes/menu.php"; ?>
 
-<div class="link-danger">
+<div class="container">
     <a href="nyheder.php" class="mx-5 link-dark">Nyheder</a>
     <a href="forar.php" class="mx-5 link-primary text-decoration-none">Forår 20</a>
     <a href="sommer.php" class="mx-5 link-dark">Sommer 20</a>
@@ -54,7 +54,7 @@
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 3 forar.jpg">
-            <strong>DMI opruster på klimaforskning i 2020<br>4. Marts 2020</strong>
+            <p id="over1"><strong>DMI opruster på klimaforskning i 2020<br>4. Marts 2020</strong></p>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 4 forar.jpg">
@@ -71,6 +71,7 @@
     </div>
     </div>
 </div>
+
 
 
 <?php include "includes/footer.php"; ?>
