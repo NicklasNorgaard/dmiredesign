@@ -30,7 +30,7 @@
 
 <?php include "includes/menu.php"; ?>
 
-<div class="link-danger">
+<div class="container">
     <a href="nyheder.php" class="mx-5 link-dark">Nyheder</a>
     <a href="forar.php" class="mx-5 link-dark">Forår 20</a>
     <a href="sommer.php.php" class="mx-5 link-primary text-decoration-none">Sommer 20</a>
