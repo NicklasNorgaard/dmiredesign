@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sommer</title>
+    <title>Efterår</title>
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -28,47 +28,47 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body class="bg-baggrund">
 
+
 <?php include "includes/menu.php"; ?>
 
 <div class="link-danger">
     <a href="nyheder.php" class="mx-5 link-dark">Nyheder</a>
     <a href="forar.php" class="mx-5 link-dark">Forår 20</a>
-    <a href="sommer.php.php" class="mx-5 link-primary text-decoration-none">Sommer 20</a>
-    <a href="efterar.php" class="mx-5 link-dark">Efterår 20</a>
+    <a href="sommer.php" class="mx-5 link-dark">Sommer 20</a>
+    <a href="efterar.php" class="mx-5 link-primary text text-decoration-none">Efterår 20</a>
     <a href="vinter.php" class="mx-5 link-dark">Vinter 20/21</a>
     <a href="arkiv.php" class="mx-5 link-dark">Arkiv</a>
 </div>
 
-<h1 class="mt-5 ms-5">Sommer 20</h1><br>
-<strong class="ms-5">Her finder du artikler omkring vejret i Danmark i sommeren 2020</strong>
-<div class="container" id="forarcontainer">
+<h1 class="mt-5 ms-5">Efterår</h1><br>
+<strong class="ms-5">Her finder du artikler omkring vejret i Danmark i efteråret 2020</strong>
+<div class="container">
     <div class="row row-cols-3">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 1 sommer.png">
-            <strong>Danmark ramt af landsdækkende varmebølge<br>26. Juni 2020</strong>
+            <img src="images/billede 1 efterar.jpg">
+            <strong>Sommeropgørelse 2020: Helt normal unormal</br>sommer<br>1. September 2020</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 2 sommer.jpg">
-            <strong>Er du varm på vind, vand og vejr?<br>1. Juli 2020</strong>
+            <img src="images/billede 2 efterar.png">
+            <strong>Bliv klog på usikkerheden i vejrudsigten<br><br>4. September 2020</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
-            <img src="images/billede 3 sommer.jpg">
-            <strong>Hvor stor kan en stormflod egentlig blive i Danmark?<br>10. Juli 2020</strong>
+            <img src="images/billede 3 efterar.png">
+            <strong>Tidligste nattefrost i 15 år<br><br>18. September 20</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 4 sommer.png">
-            <strong>Halv opgørelse af sommeren: Modsatrettede yderligheder giver normalt gennemsnit<br>10. Juli 2020</strong>
+            <img src="images/billede 4 efterar.jpg">
+            <strong>Tirsdag er det jævndøgn – fra i morgen bliver <br>natten længere end dagen<br>21. September 20</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 5 sommer.png">
-            <strong>Den koldeste juli i 41 år – i hvert fald indtil videre<br><br>17. Juli 2020</strong>
+            <img src="images/billede 5 efterar.jpg">
+            <strong>Kulderekord på Grønland bekræftet<br><br>23. September 20</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
-            <img src="images/billede 6 sommer.png">
-            <strong>Langtidsmeteorolog: Det ustadige sommervejr ser ud til at fortsætte<br>21. Juli 2020</strong>
+            <img src="images/billede 6 efterar.png">
+            <strong>Nye klimatal for september i perioden 1991-2020: Knap én grad varmere end ’normalt'<br>30. September 20</strong>
         </div>
     </div>
-</div>
 </div>
 
 
