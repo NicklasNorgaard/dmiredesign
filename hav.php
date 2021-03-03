@@ -26,7 +26,7 @@
 </head>
 
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
-<body>
+<body class="bg-baggrund">
 
 <?php include "includes/menu.php"; ?>
 
