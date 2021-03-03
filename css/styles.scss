@@ -31,3 +31,143 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+.vejr-idag {
+	background: linear-gradient(#FF8996, #FFB899);
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-template-areas:
+	"by dag"
+	". grader"
+	"info info";
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+}
+
+#by {
+	grid-area: by;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	font-size: 30px;
+}
+#grader-idag {
+	grid-area: grader;
+	font-size: 75px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+#information-idag {
+	grid-area: info;
+}
+
+#dag-idag {
+	grid-area: dag;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	font-size: 30px;
+}
+
+.vejr-næste {
+	background: #FFE193;
+	display: grid;
+	grid-template-areas:
+	"dag vejr nedbør vind";
+	padding-bottom: auto;
+	padding-top: auto;
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+}
+
+.dag {
+	grid-area: dag;
+	margin-left: 10px;
+}
+
+.vejr {
+	grid-area: vejr;
+}
+
+.nedbør {
+	grid-area: nedbør;
+}
+
+.vind {
+	grid-area: vind;
+}
+
+@media screen and (min-width: 1000px) {
+	.vejr-næste {
+		grid-template-areas:
+	"dag"
+	"vejr"
+	"nedbør"
+	"vind";
+	}
+
+	.dag {
+		font-size: 25px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: auto;
+		margin-bottom: auto;
+	}
+
+	.nedbør {
+		font-size: 25px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: auto;
+		margin-bottom: auto;
+	}
+
+	.vejr{
+		font-size: 50px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: auto;
+		margin-bottom: auto;
+	}
+
+	.vind {
+		font-size: 20px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: auto;
+		margin-bottom: auto;
+	}
+	.vejrboks {
+		display: grid;
+		grid-template-areas: "mandag tirsdag onsdag torsdag fredag lørdag søndag";
+	}
+
+	.vejr-idag {
+		grid-area: mandag;
+	}
+	#tirs {
+		grid-area: tirsdag;
+	}
+	#ons {
+		grid-area: onsdag;
+	}
+	#tors {
+		grid-area: torsdag;
+	}
+	#fre {
+		grid-area: fredag;
+	}
+	#lør {
+		grid-area: lørdag;
+	}
+	#søn {
+		grid-area: søndag;
+	}
+}
