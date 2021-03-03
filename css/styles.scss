@@ -24,6 +24,7 @@ li {
 p {
 	margin: 0;
 	padding: 0;
+	font-family: roboto;
 }
 
 img {
@@ -104,6 +105,120 @@ img {
 	grid-area: vind;
 }
 
+.varsler-idag {
+	background: linear-gradient(#A0FFA1, #FFB899);
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-template-areas:
+	"by dag"
+	"symbol symbol"
+	"kategori kategori"
+	"varsel varsel"
+	"varighed varighed";
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+}
+
+#v-by {
+	grid-area: by;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	font-size: 30px;
+}
+#v-dag-idag {
+	grid-area: dag;
+	font-size: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+#symbol-idag {
+	grid-area: symbol;
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+#kategori-idag {
+	grid-area: kategori;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	font-size: 30px;
+}
+#varsel-idag {
+	grid-area: varsel;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	font-size: 20px;
+}
+#varighed-idag {
+	grid-area: varighed;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	font-size: 15px;
+}
+
+.varsler-næste {
+	display: grid;
+	grid-template-areas:
+	"dag symbol symbol2 kategori varsel varighed";
+	padding-bottom: auto;
+	padding-top: auto;
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+}
+
+.v-dag {
+	grid-area: dag;
+	margin-left: 10px;
+}
+
+.symbol {
+	grid-area: symbol;
+	width: 30px;
+}
+.symbol2 {
+	grid-area: symbol2;
+	width: 30px;
+}
+
+.kategori {
+	grid-area: kategori;
+}
+
+.varsel {
+	grid-area: varsel;
+}
+.varighed {
+	grid-area: varighed;
+}
+
+#v-tirs, #v-ons, #v-tors {
+	background: linear-gradient(#A0FFA1, #FFB899);
+}
+
+#v-fre, #v-lør {
+	background: linear-gradient(#F1FF93, #FFB899);
+}
+
+#v-søn {
+	background: linear-gradient(#B4D2FF, #FFB899);
+}
+
 @media screen and (min-width: 1000px) {
 	.vejr-næste {
 		grid-template-areas:
@@ -139,6 +254,62 @@ img {
 
 	.vind {
 		font-size: 20px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: auto;
+		margin-bottom: auto;
+	}
+
+	.varsler-næste {
+		grid-template-areas:
+	"dag"
+	"symbol"
+	"symbol2"
+	"kategori"
+	"varsel"
+	"varighed";
+	}
+
+	.v-dag {
+		font-size: 25px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: auto;
+		margin-bottom: auto;
+	}
+
+	.symbol {
+		width: 80px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: auto;
+		margin-bottom: auto;
+	}
+	.symbol2 {
+		width: 45px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: auto;
+		margin-bottom: auto;
+	}
+
+	.kategori{
+		font-size: 30px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: auto;
+		margin-bottom: auto;
+	}
+
+	.varsel {
+		font-size: 20px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: auto;
+		margin-bottom: auto;
+	}
+	.varighed {
+		font-size: 15px;
 		margin-left: auto;
 		margin-right: auto;
 		margin-top: auto;
