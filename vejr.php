@@ -26,7 +26,7 @@
 </head>
 
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
-<body>
+<body class="bg-baggrund">
 <?php include "includes/menu.php"; ?>
 <!-- Her skal sidens indhold ligge -->
 
@@ -59,7 +59,7 @@
 
     <br><br>
     <br><br>
-    
+
 </div>
 
 <?php include "includes/footer.php"; ?>
