@@ -31,14 +31,14 @@
 
 <?php include "includes/menu.php"; ?>
 
-<div class="link-danger">
+
     <a href="nyheder.php" class="mx-5 link-dark">Nyheder</a>
     <a href="forar.php" class="mx-5 link-dark">Forår 20</a>
     <a href="sommer.php" class="mx-5 link-dark">Sommer 20</a>
     <a href="efterar.php" class="mx-5 link-dark">Efterår 20</a>
     <a href="vinter.php" class="mx-5 link-dark">Vinter 20/21</a>
     <a href="arkiv.php" class="mx-5 link-primary text text-decoration-none">Arkiv</a>
-</div>
+
 
 <h1 class="mt-5 ms-5">Arkiv</h1><br>
 <strong class="ms-5">Her finder du ældre artikler omkring vejret i Danmark</strong>
@@ -46,11 +46,11 @@
     <div class="row row-cols-3">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 1 arkiv.png">
-            <strong>Vejret 2019: Rekord indenfor rækkevidde<br><br>18. December 19</strong>
+            <strong>Vejret 2019: Rekord indenfor rækkevidde<br>18. December 19</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 2 arkiv.png">
-            <strong>Weekenden sluttede med kraftig blæst<br><br>16. December 19</strong>
+            <strong>Weekenden sluttede med kraftig blæst<br>16. December 19</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5">
             <img src="images/billede 3 arkiv.jpg">
@@ -66,7 +66,7 @@
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 6 arkiv.jpg">
-            <strong>Klima: Indlandsisen smelter hurtigere end ventet<br><br>9. December 19</strong>
+            <strong>Klima: Indlandsisen smelter hurtigere end ventet<br>9. December 19</strong>
         </div>
     </div>
 </div>

@@ -31,14 +31,14 @@
 
 <?php include "includes/menu.php"; ?>
 
-<div class="link-danger">
+
     <a href="nyheder.php" class="mx-5 link-dark">Nyheder</a>
     <a href="forar.php" class="mx-5 link-dark">Forår 20</a>
     <a href="sommer.php" class="mx-5 link-dark">Sommer 20</a>
     <a href="efterar.php" class="mx-5 link-dark">Efterår 20</a>
     <a href="vinter.php" class="mx-5 link-primary text text-decoration-none">Vinter 20/21</a>
     <a href="arkiv.php" class="mx-5 link-dark">Arkiv</a>
-</div>
+
 
 <h1 class="mt-5 ms-5">Vinter</h1><br>
 <strong class="ms-5">Her finder du artikler omkring vejret i Danmark i vinteren 2020</strong>
@@ -58,7 +58,7 @@
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 4 vinter.jpg">
-            <strong>Nu bliver data om lyn og hav gratis<br><br>17. November 20</strong>
+            <strong>Nu bliver data om lyn og hav gratis<br>17. November 20</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 5 vinter.jpg">
@@ -66,7 +66,7 @@
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 6 vinter.jpg">
-            <strong>DMI flytter op i højden<br><br>30. November 20</strong>
+            <strong>DMI flytter op i højden<br>30. November 20</strong>
         </div>
     </div>
 </div>
