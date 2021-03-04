@@ -29,7 +29,7 @@
             <a class="nav-link" href="#">Radar/Målinger</a>
         </li>
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id=dropdownlink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Vejr</a>
+            <a class="nav-link dropdown-toggle" href="vejr.php" id=dropdownlink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Vejr</a>
             <ul class="dropdown-menu" aria-labelledby="dropdownlink">
                 <li><a class="dropdown-item" href="vejr.php">Danmark</a></li>
                 <li><a class="dropdown-item" href="#">Grønland</a></li>
@@ -45,6 +45,6 @@
         <a href="varsler.php" class="m-2 text-decoration-none text-dark">Varsler: Stærk storm på vej</a>
     </div>
     <div class="rounded bg-pastelgreen m-2" style="width: auto; height:auto; font-size: 20px; font-family: roboto">
-        <a href="#" class="m-2 text-decoration-none text-dark">Pollental: Høje pollental</a>
+        <a href="vejr.php" class="m-2 text-decoration-none text-dark">Pollental: Høje pollental</a>
     </div>
 </div>
