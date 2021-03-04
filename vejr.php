@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Vejr</title>
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -26,7 +26,7 @@
 </head>
 
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
-<body>
+<body class="bg-baggrund">
 <?php include "includes/menu.php"; ?>
 <!-- Her skal sidens indhold ligge -->
 
@@ -41,7 +41,7 @@
 
 <div class="container-xxl">
     <h1 class="mt-5 ms-5">Statistik</h1><br>
-    
+
 </div>
 
 <div class="container">
@@ -56,6 +56,9 @@
 
 
     </div>
+
+    <br><br>
+    <br><br>
 
 </div>
 
