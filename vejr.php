@@ -41,7 +41,7 @@
 
 <div class="container-xxl">
     <h1 class="mt-5 ms-5">Statistik</h1><br>
-    
+
 </div>
 
 <div class="container">
@@ -53,6 +53,9 @@
         <div class="col-sm-4"><img class="img-responsive" src="images/Temperatur.JPG"></div>
 
         <div class="col-sm-4"><img class="img-responsive" src="images/Solskin.JPG"></div>
+
+        <br><br>
+        <br><br>
 
 
     </div>
