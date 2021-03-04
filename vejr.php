@@ -54,12 +54,12 @@
 
         <div class="col-sm-4"><img class="img-responsive" src="images/Solskin.JPG"></div>
 
-        <br><br>
-        <br><br>
-
 
     </div>
 
+    <br><br>
+    <br><br>
+    
 </div>
 
 <?php include "includes/footer.php"; ?>
