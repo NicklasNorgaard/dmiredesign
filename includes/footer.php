@@ -8,8 +8,8 @@
     <div class="d-flex justify-content-center">
         <a href="#" style="font-size: 40px" class="mx-2 text-decoration-none text-dark"><i class="fab fa-twitter"></i></a>
         <a href="#" style="font-size: 40px"class="mx-2 text-decoration-none text-dark"><i class="fab fa-instagram"></i></a>
-        <a href="#" class="mx- text-decoration-none"><img src="images/app-store-badge-dk.png" class="img-fluid"></a>
-        <a href="#" class="mx-2 text-decoration-none"><img src="images/google-play-badge.png" class="img-fluid"></a>
+        <a href="https://apps.apple.com/dk/app/dmi-vejr/id533069944" class="mx- text-decoration-none"><img src="images/app-store-badge-dk.png" class="img-fluid"></a>
+        <a href="https://play.google.com/store/apps/details?id=dk.dmi.byvejret&hl=da&gl=US" class="mx-2 text-decoration-none"><img src="images/google-play-badge.png" class="img-fluid"></a>
     </div>
     <hr>
     <div class="d-flex justify-content-start pt-1 pb-3 px-2" style="font-family: 'Roboto Thin'">
