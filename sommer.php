@@ -32,14 +32,14 @@
 
 <?php include "includes/menu.php"; ?>
 
-<div class="container">
+
     <a href="nyheder.php" class="mx-5 link-dark">Nyheder</a>
     <a href="forar.php" class="mx-5 link-dark">Forår 20</a>
     <a href="sommer.php.php" class="mx-5 link-primary text-decoration-none">Sommer 20</a>
     <a href="efterar.php" class="mx-5 link-dark">Efterår 20</a>
     <a href="vinter.php" class="mx-5 link-dark">Vinter 20/21</a>
     <a href="arkiv.php" class="mx-5 link-dark">Arkiv</a>
-</div>
+
 
 <h1 class="mt-5 ms-5">Sommer 20</h1><br>
 <strong class="ms-5">Her finder du artikler omkring vejret i Danmark i sommeren 2020</strong>
@@ -63,7 +63,7 @@
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 5 sommer.png">
-            <strong>Den koldeste juli i 41 år – i hvert fald indtil videre<br><br>17. Juli 2020</strong>
+            <strong>Den koldeste juli i 41 år – i hvert fald indtil videre<br>17. Juli 2020</strong>
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4 mt-5 mb-5">
             <img src="images/billede 6 sommer.png">
